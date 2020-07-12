@@ -1,7 +1,7 @@
 # Blog
 
 ## Overview
-Basics lists using HTML format. List inlcudes bullets points, ordered lists and unordered, bold content and italic content, and spacing.
+Create a Blog using both HTML and CSS. Blog contains paragraphs, headers, Borders, Spacing, Header lines with linear effect, Margina and Padding, etc.
 
 
 ## Technologies used
