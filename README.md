@@ -12,4 +12,4 @@ Create a Blog using both HTML and CSS. Blog contains paragraphs, headers, Border
 
 
 ## Link to work
-This site was built using [GitHub Pages]().
+This site was built using [GitHub Pages](https://ml042685.github.io/Blog/index.html).
